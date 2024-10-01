@@ -29,7 +29,7 @@ Example using [lazy.nvim](https://github.com/folke/lazy.nvim):
 -- plugins/treesitter.lua
 return {
   {
-    "https://github.com/julienvincent/tree-sitter-numscript",
+    "julienvincent/tree-sitter-numscript",
   },
 }
 ```
